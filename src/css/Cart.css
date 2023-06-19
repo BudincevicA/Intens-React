@@ -1,0 +1,28 @@
+.cart-container {
+  width: 50%;
+  margin: auto;
+  font-size: larger;
+}
+
+.cart-table {
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.cart-table table {
+  background-color: rgb(180, 176, 176);
+  border-collapse: collapse;
+}
+
+.cart-table th,
+.cart-table td {
+  padding: 10px;
+  font-weight: bold;
+  border: 2px solid black;
+  font-size: large;
+}
+
+.cart-table .action-cell {
+  width: 1%;
+  white-space: nowrap;
+}
